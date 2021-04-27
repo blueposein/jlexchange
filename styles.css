@@ -1,0 +1,21 @@
+body {
+    
+    background-image: url("carousel/1092587.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Cousine', monospace;
+}
+
+
+.active {
+    color: yellow !important;
+}
+
+.navbartext{
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}

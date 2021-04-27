@@ -1,0 +1,10 @@
+dropdown en navbar
+usar cards con flex
+carusel
+modal
+transiciones
+hover 
+active
+
+
+3 páginas
